@@ -101,16 +101,7 @@ npx skills add zhimeng/url-digest
 
 如果你觉得这个工具对你有帮助，欢迎打赏一杯咖啡 ☕️
 
-请将微信收款码命名为 `wechat-donate.png` 放到 skill 根目录即可显示：
-
-```
-url-digest/
-├── wechat-donate.png   # 你的微信收款码
-├── README.md
-├── LICENSE
-├── SKILL.md
-└── references/
-```
+<img src="./wechat-donate.png" width="200" alt="微信打赏"/>
 
 ## License
 
