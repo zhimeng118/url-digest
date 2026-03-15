@@ -22,13 +22,7 @@
 ## 安装
 
 ```bash
-npx skills add <your-github-username>/url-digest
-```
-
-例如：
-
-```bash
-npx skills add zhimeng/url-digest
+npx skills add zhimeng118/url-digest
 ```
 
 ## 使用方法
