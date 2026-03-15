@@ -2,6 +2,8 @@
 
 基于 URL 链接读取文章并按结构化方法论进行提炼总结的 AI Agent Skill。
 
+如果感觉有用，欢迎 ⭐️ [Star](https://github.com/zhimeng118/url-digest) 支持！
+
 ## 功能特性
 
 - 📖 支持读取公众号文章、网页文章链接
@@ -107,4 +109,6 @@ zhimeng
 
 ---
 
-⭐️ 如果喜欢，欢迎 Star！
+## Author
+
+zhimeng
