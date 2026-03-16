@@ -1,4 +1,9 @@
-# Skill: urlens
+---
+name: url-digest
+description: 基于URL链接读取文章并按结构化方法论进行提炼总结
+---
+
+# Skill: url-digest
 
 基于URL链接读取文章并按提炼方法论进行总结的技能。
 
